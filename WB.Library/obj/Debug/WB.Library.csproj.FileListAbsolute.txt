@@ -1,0 +1,5 @@
+E:\QuocTung\Profiles\SmallOT\CA-Huy\sources\WB.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\QuocTung\Profiles\SmallOT\CA-Huy\sources\WB.Library\bin\Debug\WB.Library.dll
+E:\QuocTung\Profiles\SmallOT\CA-Huy\sources\WB.Library\bin\Debug\WB.Library.pdb
+E:\QuocTung\Profiles\SmallOT\CA-Huy\sources\WB.Library\obj\Debug\WB.Library.dll
+E:\QuocTung\Profiles\SmallOT\CA-Huy\sources\WB.Library\obj\Debug\WB.Library.pdb

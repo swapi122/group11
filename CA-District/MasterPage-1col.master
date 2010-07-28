@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="false"
+    CodeFile="MasterPage-1col.master.cs" Inherits="MasterPage_1col" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+    <asp:ContentPlaceHolder ID="headerHolder" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contentHolder" runat="Server">
+    <div class="content-bg">
+        <div class="c-t1">
+            <div class="c-t2">
+                <div class="c-t3">
+                </div>
+            </div>
+        </div>
+        <div class="c-content">
+            <asp:ContentPlaceHolder ID="contentHolder" runat="server">
+            </asp:ContentPlaceHolder>
+            &nbsp;
+        </div>
+        <div class="c-b1">
+            <div class="c-b2">
+                <div class="c-b3">
+                </div>
+            </div>
+        </div>
+    </div>
+</asp:Content>
