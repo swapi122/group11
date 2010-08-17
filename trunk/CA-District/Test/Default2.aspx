@@ -12,6 +12,14 @@
         <asp:Literal ID="Literal1" runat="server"></asp:Literal>
         <asp:TextBox ID="abcd" runat="server"></asp:TextBox>
     </div>
+    <asp:Repeater ID="rep" runat="server">
+        <ItemTemplate>
+            <asp:TextBox ID="txt" runat="server">
+            </asp:TextBox>
+        </ItemTemplate>
+    </asp:Repeater>
     </form>
+    
+    <input id="ds" c="dffds" />
 </body>
 </html>
